@@ -1,38 +1,4 @@
-this is new file writed in a java language,rght? 1 changed
 
+mainMethod----
 
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> feature1
-this is a modified file in the branch master
-this is a changed file
-
-
-
-
-<<<<<<< HEAD
-========
-this is a file added in the master 
-======
-=======
-
-
-
---------------
-this is a added file in the feature1------
---------------
->>>>>>> feature1
-
-
-this is my changed in the seconde time,see? 2 changed
-
-
-this is a test of branch dev   3rd commit
-
-
-create a new branch is quick & simple ----master branch
---------------line of the gap-----------
-create a new branch is quick AND simple ------feature1 branch
+this is a test in the file one.txt 
