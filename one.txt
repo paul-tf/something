@@ -10,3 +10,5 @@ this is a test of branch dev   3rd commit
 
 
 create a new branch is quick & simple ----master branch
+--------------line of the gap-----------
+create a new branch is quick AND simple ------feature1 branch
