@@ -1,10 +1,21 @@
 this is new file writed in a java language,rght? 1 changed
 
 
+
+
+
 this is a modified file in the branch master
 this is a changed file
 
 
+
+
+
+
+
+--------------
+this is a added file in the feature1------
+--------------
 
 
 this is my changed in the seconde time,see? 2 changed
