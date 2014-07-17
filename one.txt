@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 mainMethod------
+=======
+
+mainMethod----
+
+this is a test in the file one.txt 
+>>>>>>> feature1
